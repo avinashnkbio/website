@@ -1,2 +1,2 @@
-# website
-website folder
+# Website
+Website HTML,Javascript folder
